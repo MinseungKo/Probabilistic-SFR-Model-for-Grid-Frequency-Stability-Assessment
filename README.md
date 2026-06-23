@@ -1,5 +1,5 @@
 # Probabilistic System Frequency Response (SFR) Model for Grid Frequency Stability Assessment
-MATLAB Code for the paper "A Probabilistic Framework for Frequency Stability Assessment of Inverter-dominated Grid under Voltage Dependency."
+MATLAB Code for the paper "Voltage-Coupled Probabilistic Frequency Security Assessment of Inverter-Dominated Grid."
 
 ## Code Overview
 This code aims to enhance the system frequency response (SFR) model, which is widely used for assessing power system frequency.
